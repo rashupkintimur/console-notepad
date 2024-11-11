@@ -1,0 +1,7 @@
+# database
+nts.db
+
+# ide, os folders
+.DB_Store
+.vscode/
+.idea/
